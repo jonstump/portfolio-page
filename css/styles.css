@@ -1,13 +1,14 @@
 /* Rules for headers */
 h1 {
-  color: blue;
+  color: #2B4162;
   text-align: center;
 }
 h2 {
-  color: blue;
+  color: #385f71;
   text-align: center;
 }
 
+/* rules for a sidebar that I used for an about me section next to my profile image */
 .sidebar {
   width: 30%;
   float: right;
@@ -18,3 +19,8 @@ h2 {
   box-sizing: border-box;
 }
 
+/* basic formatting for the body */
+body {
+  font-family: sans-serif;
+  background-color: #f5f0f6;
+}
