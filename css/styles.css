@@ -8,6 +8,12 @@ h2 {
   text-align: center;
 }
 
+img {
+  border-radius: 50%;
+  display: inline-block;
+  align-content: center;
+}
+
 /* rules for a sidebar that I used for an about me section next to my profile image */
 .sidebar {
   width: 30%;
@@ -23,4 +29,14 @@ h2 {
 body {
   font-family: sans-serif;
   background-color: #f5f0f6;
+}
+
+/* formatting for projects section */
+.projects {
+  font-family: fantasy;
+}
+
+.projects p a {
+  font-weight: bold;
+  color: #8f754f;
 }
