@@ -8,15 +8,23 @@ h2 {
   text-align: center;
 }
 
+/* image rules */
 img {
-  border-radius: 50%;
+  border-radius: 20px;
   display: inline-block;
   align-content: center;
+}
+.center {
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  width: 50%;
 }
 
 /* rules for a sidebar that I used for an about me section next to my profile image */
 .sidebar {
   width: 30%;
+  padding: 20px;
   float: right;
   border: black;
   border-width: 2px;
@@ -33,10 +41,10 @@ body {
 
 /* formatting for projects section */
 .projects {
-  font-family: fantasy;
+  background-color: #385F71;
+  color: #F5F0F6;
 }
-
-.projects p a {
+.projects a {
   font-weight: bold;
   color: #8f754f;
 }
@@ -62,6 +70,9 @@ body {
 .jobhistory p {
   font-style: italic;
 }
+.jobhistory h2 {
+  color: #F5F0F6;
+}
 .jobhistory {
   background-color: #385F71;
 }
@@ -72,7 +83,6 @@ body {
   color: #F5F0F6;
 }
 .thewhy ol {
-  color: #8f754f;
   font-family: Calibri, sans-serif;
 }
 .thewhy p {

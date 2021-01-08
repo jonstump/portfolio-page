@@ -2,7 +2,7 @@
 <hr>
 
 ### By Jon Stump
-[<img align="center" src="https://avatars2.githubusercontent.com/u/59323850?s=460&u=372c7d529b7379408ae54491ab3449b6e2f4d94d&v=4">]
+<img align="center" src="https://avatars2.githubusercontent.com/u/59323850?s=460&u=372c7d529b7379408ae54491ab3449b6e2f4d94d&v=4">
 
 ## Technologies Used
 * HTML
@@ -17,8 +17,10 @@ This is my portfolio website that includes projects, work history, skills, and i
 
 ## Setup/installation Requirements
 
-* Under the code tab on Github.com find the HTTPs link and copy it to your clipboard
-* Within your git bash terminal line below to git clone and add the HTTPs link that was provided by the github page that this page was founded on or copy paste what is below in the example:
+* Copy the following link to your clipboard: https://github.com/jonstump/portfolio-page
+* Open a Bash Terminal
+* In your terminal window, navigate to a directory that you would like to clone the repository to
+* Within your git bash terminal type in 'git clone' and then paste in the link from your clipboard by right clicking and selecting 'paste' example below:
 ```bash
 $ git clone https://github.com/jonstump/portfolio-page
 ```
@@ -29,7 +31,7 @@ $ git clone https://github.com/jonstump/portfolio-page
 This page can also be viewed via it's [gh-page](github page url here)
 
 ## Known Bugs
-* Possibly broken link to profile photo in readme
+* None that I am aware of. If you find any please contact me below
 
 ## License
 [MIT](https://mit-license.org/)
