@@ -2,7 +2,7 @@
 <hr>
 
 ### By Jon Stump
-[img align="center" src="https://avatars2.githubusercontent.com/u/59323850?s=460&u=372c7d529b7379408ae54491ab3449b6e2f4d94d&v=4"]
+[<img align="center" src="https://avatars2.githubusercontent.com/u/59323850?s=460&u=372c7d529b7379408ae54491ab3449b6e2f4d94d&v=4">]
 
 ## Technologies Used
 * HTML
@@ -29,7 +29,7 @@ $ git clone https://github.com/jonstump/portfolio-page
 This page can also be viewed via it's [gh-page](github page url here)
 
 ## Known Bugs
-* None so far / project is a WIP
+* Possibly broken link to profile photo in readme
 
 ## License
 [MIT](https://mit-license.org/)
