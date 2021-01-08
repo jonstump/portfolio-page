@@ -8,12 +8,6 @@ h2 {
   text-align: center;
 }
 
-/* image rules */
-img {
-  border-radius: 20px;
-  display: inline-block;
-  align-content: center;
-}
 .center {
   display: block;
   margin-left: auto;
@@ -21,16 +15,20 @@ img {
   width: 50%;
 }
 
-/* rules for a sidebar that I used for an about me section next to my profile image */
-.sidebar {
-  width: 30%;
-  padding: 20px;
-  float: right;
-  border: black;
+/* rules for a box that I used for an about me section next to my profile image */
+.box {
+  width: 100%;
+  border: solid black;
   border-width: 2px;
-  background-color: aliceblue;
   margin-bottom: auto;
   box-sizing: border-box;
+  align-self: center;
+}
+.box img {
+  border-radius: 20px;
+  height: 10%;
+  width: auto;
+  float: left;
 }
 
 /* basic formatting for the body */
