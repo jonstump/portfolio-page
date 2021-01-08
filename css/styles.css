@@ -40,3 +40,39 @@ body {
   font-weight: bold;
   color: #8f754f;
 }
+
+/* formatting for the education and skills section */
+
+.background1 p {
+  font-style: italic;
+} 
+.background1 ul {
+  color:gray
+}
+.background1 {
+  background-color: #D7B377;
+}
+
+.jobhistory p {
+  font-family: monospace;
+}
+.jobhistory ul {
+  color: #F5F0F6;
+  font-family: Verdana, sans-serif;
+}
+.jobhistory {
+  background-color: #385F71;
+}
+
+.thewhy {
+  background-color: #2B4162;
+  font-family: monospace;
+  color: #F5F0F6;
+}
+.thewhy ol {
+  color: #8f754f;
+  font-family: Calibri, sans-serif;
+}
+.thewhy p {
+  font-family: sans-serif;
+}
