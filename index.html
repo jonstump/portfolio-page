@@ -1,38 +1,57 @@
 <!DOCTYPE html>
 <html>
   <head>
-    <link href="css/bootstrap.css" rel="bootstrap" type="text/css">
+    <link href="css/bootstrap.css" rel="stylesheet" type="text/css">
     <link href="css/styles.css" rel="stylesheet" type="text/css">
     <title>Jon Stump's Portfolio Page</title>
   </head>
 
   <body>
-  <div>
-    <h1>Jon Stump's Project Portfolio</h1>
-    <p>Welcome to my portfolio page where you can learn more about me and see some of my example projects.</p>
-    <img src="img/jon stump.jpg" alt="Jon Stump's profile picture">
+  <div class="container">
+    <div class="jumbotron">
+      <h1>Jon Stump's Project Portfolio</h1>
+      <p>Welcome to my portfolio page where you can learn more about me and see some of my example projects.</p>
+    </div>
   </div>
-
-  <div>
+  
+  <img src="img/jon stump.jpg" alt="Jon Stump's profile picture">
+  <div class="sidebar">
+    <h5>About Me</h5>
+    <p>Hi! My name is Jon Stump and I currently reside in the Pacific Northwest. I'm taking an intro to programming course with Epicodus to learn more about programming. I'm a fan of traveling and was actually in Ho Chi Minh City Vietnam when COVID-19 grounded flights around the world. It was interesting being an American and seeing how another country handled the pandemic. I enjoy reading and do my best to read across as many different topics as possible.</p>
+  </div>
+  
     <h2>Projects</h2>
-    <h3><a href="https://github.com/jonstump/vacation-website">Vacation Website</a></h3>
-    <p>This is an example vacation website that I worked on with <a href="https://github.com/mekinsie">Mekinsie Aja</a> to practice Bootstrapping.</p>
-    <p>Technology and languages used</p>
-    <ol>
-      <li>HTML</li>
-      <li>CSS</li>
-      <li>Markdown</li>
-      <li>Bootstap</li>
-    </ol>
-    <h3><a href="https://github.com/jonstump/blogging-site-example">Blogging Site Example</a></h3>
-    <p>This is an example blog site that I created with <a href="https://github.com/glenbuck503">Glen Buck</a> and <a href="https://github.com/dcouch440">David Couch</a>. This was for practicing divs and spans with CSS.</p>
-    <p>Technology and languages used</p>
-    <ol>
-      <li>HTML</li>
-      <li>CSS</li>
-      <li>Markdown</li>
-      <li>Divs and Spans</li>
-    </ol>
+    <div class="row">
+      <div class="col-4">
+        <div class="card body">
+          <h3 class="card-title"><a href="https://github.com/jonstump/vacation-website">Vacation Website</a></h3>
+          <p class="card-text">This is an example vacation website that I worked on with <a href="https://github.com/mekinsie">Mekinsie Aja</a> to practice Bootstrapping.</p>
+          <p>Technology and languages used</p>
+          <ol>
+            <li>HTML</li>
+            <li>CSS</li>
+            <li>Markdown</li>
+            <li>Bootstap</li>
+          </ol>
+          </div>
+        </div>
+      <div class="col-4">
+        <div class="card body">
+          <h3 class="card-title"><a href="https://github.com/jonstump/blogging-site-example">Blogging Site Example</a></h3>
+          <p class="card-text">This is an example blog site that I created with <a href="https://github.com/glenbuck503">Glen Buck</a> and <a href="https://github.com/dcouch440">David Couch</a>. This was for practicing divs and spans with CSS.</p>
+          <p>Technology and languages used</p>
+          <ol>
+            <li>HTML</li>
+            <li>CSS</li>
+            <li>Markdown</li>
+            <li>Divs and Spans</li>
+          </ol>
+        </div>
+      </div>
+    
+    
+    
+    
     <h3><a href="https://github.com/jonstump/week-in-review">Week in Review</a></h3>
     <p>This is a page that <a href="https://github.com/mekinsie">Mekinsie Aja</a> and I worked on to practice bootstrap and css.</p>
     <p>Technology and languages used</p>

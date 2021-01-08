@@ -1,0 +1,20 @@
+/* Rules for headers */
+h1 {
+  color: blue;
+  text-align: center;
+}
+h2 {
+  color: blue;
+  text-align: center;
+}
+
+.sidebar {
+  width: 30%;
+  float: right;
+  border: black;
+  border-width: 2px;
+  background-color: aliceblue;
+  margin-bottom: auto;
+  box-sizing: border-box;
+}
+
