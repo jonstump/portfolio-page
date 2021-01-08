@@ -28,10 +28,10 @@ $ git clone https://github.com/jonstump/portfolio-page
 * After you have the folder open that you cloned from Github.com double click the file "index.html"
 * The webpage should open in the default browser set by your machines settings
 
-This page can also be viewed via it's [gh-page](github page url here)
+This page can also be viewed via it's [gh-page](https://jonstump.github.io/portfolio-page/)
 
 ## Known Bugs
-* None that I am aware of. If you find any please contact me below
+* Having issues with image resizing in css and border wrapping around the image. Border removed for now from box.
 
 ## License
 [MIT](https://mit-license.org/)
