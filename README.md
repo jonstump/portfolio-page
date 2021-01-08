@@ -2,11 +2,13 @@
 <hr>
 
 ### By Jon Stump
+[img align="center" src="https://avatars2.githubusercontent.com/u/59323850?s=460&u=372c7d529b7379408ae54491ab3449b6e2f4d94d&v=4"]
 
 ## Technologies Used
 * HTML
 * CSS
 * Bootstrap
+* Visual Studio Code
 
 
 ## Description
