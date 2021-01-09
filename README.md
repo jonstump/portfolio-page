@@ -1,4 +1,4 @@
- Portfolio Website
+Portfolio Website
 <hr>
 
 ### By Jon Stump
@@ -10,10 +10,23 @@
 * Bootstrap
 * Visual Studio Code
 
+## Scope
+* About me
+* Hobbies and Skills
+* Job History
+* An answer to why I am taking a coding class
+* Education history
+* Contact info
+* Photo of myself
 
 ## Description
 
 This is my portfolio website that includes projects, work history, skills, and information about me.
+
+## Examples of use
+* For sending to potential employers
+* Linking in blog posts on medium
+* Including in your resume for portfolio examples
 
 ## Setup/installation Requirements
 
@@ -29,6 +42,12 @@ $ git clone https://github.com/jonstump/portfolio-page
 * The webpage should open in the default browser set by your machines settings
 
 This page can also be viewed via it's [gh-page](https://jonstump.github.io/portfolio-page/)
+
+## Sources Used
+* [Epicodus](https://www.epicodus.com/)
+* [stack overflow](https://stackoverflow.com/)
+* [w3schools](https://www.w3schools.com/)
+* [coolors](https://coolors.co/)
 
 ## Known Bugs
 * Having issues with image resizing in css and border wrapping around the image. Border removed for now from box.
