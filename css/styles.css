@@ -8,6 +8,12 @@ h2 {
   text-align: center;
 }
 
+/* basic formatting for the body */
+body {
+  font-family: sans-serif;
+  background-color: #031926;
+}
+
 .center {
   display: block;
   margin-left: auto;
@@ -29,20 +35,14 @@ h2 {
   float: left;
 }
 
-/* basic formatting for the body */
-body {
-  font-family: sans-serif;
-  background-color: #f5f0f6;
-}
-
 /* formatting for projects section */
 .projects {
-  background-color: #385F71;
+  background-color: #468189;
   color: #F5F0F6;
 }
 .projects a {
   font-weight: bold;
-  color: #8f754f;
+  color: #77ACA2;
 }
 
 /* formatting for the education and skills section */
@@ -51,10 +51,10 @@ body {
   font-style: italic;
 } 
 .background1 ul {
-  color:gray
+  color:gray;
 }
 .background1 {
-  background-color: #D7B377;
+  background-color: #468189;
 }
 
 .jobhistory {
@@ -70,11 +70,11 @@ body {
   color: #F5F0F6;
 }
 .jobhistory {
-  background-color: #385F71;
+  background-color: #468189;
 }
 
 .thewhy {
-  background-color: #2B4162;
+  background-color: #468189;
   font-family: monospace;
   color: #F5F0F6;
 }
