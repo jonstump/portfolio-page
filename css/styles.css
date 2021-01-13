@@ -27,6 +27,7 @@ body {
   margin-bottom: auto;
   box-sizing: border-box;
   align-self: center;
+  color: white;
 }
 .box img {
   border-radius: 20px;
