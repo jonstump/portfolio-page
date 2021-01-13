@@ -52,7 +52,7 @@ body {
   font-style: italic;
 } 
 .background1 ul {
-  color:gray;
+  color: whitesmoke;
 }
 .background1 {
   background-color: #468189;
@@ -77,6 +77,9 @@ body {
 .thewhy {
   background-color: #468189;
   font-family: monospace;
+  color: #F5F0F6;
+}
+.thewhy h2 {
   color: #F5F0F6;
 }
 .thewhy ol {
