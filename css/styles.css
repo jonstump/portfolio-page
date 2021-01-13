@@ -79,6 +79,9 @@ body {
   font-family: monospace;
   color: #F5F0F6;
 }
+.thewhy h2 {
+  color: #F5F0F6;
+}
 .thewhy ol {
   font-family: Calibri, sans-serif;
 }
